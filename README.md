@@ -1,3 +1,6 @@
+## LineageOS
+* 16.0 => XDA Thread: https://forum.xda-developers.com/oneplus-6/development/rom-lineageos-16-0-t3839750
+
 ## Instructions
 * Download the latest build and gapps
 * Boot to recovery
