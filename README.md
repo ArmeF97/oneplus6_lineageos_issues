@@ -21,3 +21,5 @@ If it is a random reboot, grab /sys/fs/pstore/console-ramoops and /sys/fs/pstore
 If the problem disappears after running "setenforce 0" from a root shell, grab /data/misc/audit/audit.log
 
 ## Remember to provide as much info as possible. The more info you provide, the more likely that the bug will be solved. Please also do not report known issues. Any bug not reported in the bug report format below may be ignored.
+
+* Submit issues here https://github.com/ArmeF97/oneplus6_lineageos_issues/issues
